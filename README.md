@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @wilmarly 
-- 👀 I’m interested in learning about programing world
-- 🌱 I’m currently learning Python, Javascript, CSS, typescript, C#, HTML 5
-- 💞️ I’m looking to collaborate on Informatic security
-- 📫 How to reach me, please write me to wilmarsanchez@hotmail.es
+# Hi, I'm Wilmar Sánchez
 
-<!---
-wilmarly/wilmarly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Senior Test Automation Engineer | Cypress Expert | AI-Powered Testing
+
+I specialize in transforming traditional QA into intelligent automation, currently working at Walmart E-Commerce LATAM where I lead AI-powered testing strategies.
+
+## What I Do
+
+- **Test Automation:** Expert in Cypress, Playwright, and Selenium with focus on modern JavaScript/TypeScript frameworks
+- **AI Integration:** Pioneering the use of Cursor AI and GitHub Copilot to generate test suites 10x faster
+- **Quality Metrics:** Increased code coverage from 40% to 89% across enterprise projects
+- **DevOps:** Implementing CI/CD pipelines with 0% flaky tests using GitHub Actions and Docker
+
+## Tech Stack
+
+**Testing:** Cypress | Playwright | Selenium | Jest | Postman  
+**Languages:** JavaScript | TypeScript | Python | Java  
+**AI Tools:** Cursor AI | GitHub Copilot | ChatGPT API  
+**DevOps:** Docker | GitHub Actions | Jenkins | AWS  
+
+## Current Focus
+
+Building ML models for predictive test selection and developing next-generation AI testing frameworks that reduce test creation time by 10x.
+
+## Let's Connect
+
+📧 Contact me: wilmarsanchez@hotmail.es  
+💼 LinkedIn: [linkedin.com/in/wilmarsanchez](https://linkedin.com/in/wilmarsanchez)  
+📝 Read my articles on Medium about AI-powered testing strategies
